@@ -67,5 +67,30 @@
 1. Number of sampled individuals：59203
 2. Location: Tianjin
 3. Results: median is 58.68 μg/L for male kids and 56.79 for female. Level increases with age
+## [1]彭桂馨,张淼,孙蕴哲,等.河南省某铅蓄电池厂作业工人血铅异常情况及影响因素分析[C]//中国职业安全健康协会.2022年度中国职业安全健康协会科技大会论文摘要集.新乡医学院公共卫生学院;,2022:31.DOI:10.26914/c.cnkihy.2022.055138.
+1. Number of sampled individuals：2644
+2. Location: A battery plant
+3. Results: average is 294.63±103.29 μg/L, 246 (9.3%) with a level > 400 μg/L
+## [1]方金梅,陈晓兰,吴文勇,等.云霄县2020年265例铅作业工人血铅结果分析[J].海峡预防医学杂志,2022,28(05):72-73.
+1. Number of sampled individuals：265
+2. Location: A smelter of Yunxiao County
+3. Results: averageis 25.1 μg/L for A place and 142.8 μg/L for B place
+## [1]邹正洪,唐彬.2021年金湖县铅接触劳动者血铅水平及相关指标分析[J].微量元素与健康研究,2023,40(05):57-59.
+1. Number of sampled individuals：3095
+2. Location: Jinhu County
+3. Results: range is 1.0-882.9 μg/L, average is 128.2 ± 168.6 μg/L
+## [1]杨兰增.某地区钢铁工人静脉血铅含量的检测分析[J].中国校医,2022,36(09):712-714.
+1. Number of sampled individuals：60 (random sampling)
+2. Location: A steel plant at Yongcheng cith
+3. Results: average is 253.31±21.48 μg/L
+## [1]彭桂馨,崔守明,杨玉新,等.某铅酸蓄电池厂作业工人血铅异常情况及危险因素研究[J].职业卫生与应急救援,2022,40(04):412-416.DOI:10.16369/j.oher.issn.1007-1326.2022.04.005.
+1. Number of sampled individuals：2550
+2. Location: A battery plant in Xinxiang City
+3. Results: 246 people (9.64%) with blood lead > 400 μg/L, average is 233.35±120.01 μg/L
+## [1]王燕,林海,符大天,等.海南省某三甲医院0～6岁就诊儿童血铅水平检测与分析[J].现代诊断与治疗,2022,33(13):1952-1954.
+1. Number of sampled individuals：834
+2. Location: Haikou
+3. Results: range is 1.21-73.73 and average is 16.34±23.04 μg/L
+
 
 
